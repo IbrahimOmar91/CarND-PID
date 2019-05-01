@@ -33,6 +33,7 @@ The p term is about how much should i steer depending on the current error it is
 The I term is the integration of the past error of the system so it can be good in decreasing hardware issues in the control cycle.<br>
 The D term is about predecting what the next step will be and decrease the error which decreases the oscillation of the system.
 
+* in the imgs folder i added some images of the car stopping because of wrong values
 ---
 
 ## Dependencies
