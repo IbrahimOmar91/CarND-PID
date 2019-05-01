@@ -26,7 +26,7 @@ so it looks like the "kp" should br negative and > -1
 * `-0.05, -0.001, -1` >> things are getting better now, may be it needs alittle bit more of p
 * `-0.07, -0.001, -1` >> ok, may be alittle more again
 * `-0.11, -0.001, -1` >> ok, may be alittle more again i hope for the last time
-* `-0.13, -0.001, -1` >> Tats it, Here we go ^_^
+* `-0.13, -0.001, -1` >> Thats it, Here we go ^_^
 
 ## Conclusion
 The p term is about how much should i steer depending on the current error it is the present time-wise.<br>
