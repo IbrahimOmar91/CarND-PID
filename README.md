@@ -29,8 +29,8 @@ so it looks like the "kp" should br negative and > -1
 * `-0.13, -0.001, -1` >> Tats it, Here we go ^_^
 
 ## Conclusion
-The p term is about how much should i steer depending on the current error it is the present time-wise
-The I term is the integration of the past error of the system so it can be good in decreasing hardware issues in the control cycle.
+The p term is about how much should i steer depending on the current error it is the present time-wise.<br>
+The I term is the integration of the past error of the system so it can be good in decreasing hardware issues in the control cycle.<br>
 The D term is about predecting what the next step will be and decrease the error which decreases the oscillation of the system.
 
 ---
